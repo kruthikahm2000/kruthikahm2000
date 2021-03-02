@@ -1,4 +1,4 @@
-
+<p align="center"> <img src="https://github.com/kruthikahm2000/kruthikahm2000/blob/main/banner.gif" width="600"/></p>
 <h1 align="center">Hi 👋, I'm Kruthika HM</h1>
 <h3 align="center">A Girl who loves the Challenges</h3>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kruthikahm.19@gmail.com**
 
-- ⚡ Fun fact **I think I don't need to be liked always**
+- ⚡ Fun fact **I think I don't need to be liked always.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
